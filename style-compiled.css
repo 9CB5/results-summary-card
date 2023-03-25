@@ -866,6 +866,16 @@ body {
   --tw-gradient-to: hsl(241, 81%, 54%);
 }
 
+.active\:from-blue-slate:active {
+  --tw-gradient-from: hsl(252, 100%, 67%);
+  --tw-gradient-to: hsl(252 100% 67% / 0);
+  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
+}
+
+.active\:to-blue-royal:active {
+  --tw-gradient-to: hsl(241, 81%, 54%);
+}
+
 @media (min-width: 768px) {
   .xl\:flex {
     display: flex;
