@@ -1,6 +1,6 @@
-# Easybank landing page
+# Results summary card
 
-Easybank landing page made with SASS using BEM and 7-1 pattern.
+Results summary card made with tailwind.
 
 ![Image preview](design/desktop-design.jpg)
 
